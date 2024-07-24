@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Agenda Tareas App</string>
+    <string name="et_tarea_hint">Escribe una nueva tarea</string>
+    <string name="btn_add_text">Añadir tarea</string>
+</resources>
